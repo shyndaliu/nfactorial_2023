@@ -1,0 +1,23 @@
+{
+  "id": [
+    "INT",
+    "PRIMARYKEY",
+    "1",
+    "2",
+    "3"
+  ],
+  "name": [
+    "STR",
+    "NONE",
+    "John",
+    "Tereza",
+    "James"
+  ],
+  "surname": [
+    "STR",
+    "NONE",
+    "Brown",
+    "Smith",
+    "Creed"
+  ]
+}
